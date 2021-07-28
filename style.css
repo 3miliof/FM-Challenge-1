@@ -103,7 +103,7 @@ body {
     color: hsl(0, 0%, 95%);
 }
 
-@media only screen and (min-width: 1080px) {
+@media only screen and (min-width: 1350px) {
     
     body {
         position: absolute;
@@ -135,7 +135,7 @@ body {
         margin-left: 3vw;
         margin-right: 3vw;
         word-spacing: 7.5px;
-        margin-bottom: 5vh;
+        margin-bottom:  5%;
     }
 
     .box > h1 {
@@ -145,7 +145,7 @@ body {
     }
 
     .btn {
-        margin-top: 5vh;
+        margin-top: 5%;
         margin-bottom: 5vh;
         margin-left: 3vw;
         border: 2px solid hsl(0, 0%, 95%);
@@ -156,5 +156,3 @@ body {
         font-size: 1.25rem;
     }
 }
-
-
